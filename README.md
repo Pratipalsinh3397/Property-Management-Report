@@ -1,44 +1,53 @@
-# Property Management Report
+# 📊Property Management Report – Power Pivot & DAX Measures
 
-## Overview
-This document provides a comprehensive overview of property management practices, strategies, and solutions.
+## 📌 Overview
 
-## Table of Contents
-1. Introduction
-2. Property Management Goals
-3. Key Responsibilities
-4. Property Management Processes
-5. Reporting and Analytics
-6. Conclusion
+This repository contains an Excel-based reporting project created as part of my learning journey as an **aspiring Data Analyst**. The goal of this project is to practice transforming raw data into a structured, interactive report using **Power Pivot** and **DAX measures** while following provided business instructions.
 
-## 1. Introduction
-Property management involves the operation, control, and oversight of real estate. This document outlines the essential aspects of effective property management.
+The project simulates real-world reporting scenarios and focuses on building strong fundamentals in Data analytics and business intelligence.
 
-## 2. Property Management Goals
-- Maximize property value
-- Ensure tenant satisfaction
-- Maintain the property in good condition
+---
 
-## 3. Key Responsibilities
-- Collecting rent
-- Managing maintenance requests
-- Handling tenant communications and conflicts
+## 🎯 Objectives
 
-## 4. Property Management Processes
-### 4.1 Tenant Acquisition
-- Marketing properties
-- Screening applicants
+* Build a data model using Power Pivot
+* Create DAX measures for key performance indicators (KPIs)
+* Design interactive Pivot Tables and reports
+* Develop a scalable and well-structured Excel report
 
-### 4.2 Lease Management
-- Drafting and signing leases
-- Renewing leases and managing terminations
+---
 
-### 4.3 Financial Management
-- Budgeting and financial reporting
-- Managing expenses and revenues
+## 🛠 Tools & Technologies
 
-## 5. Reporting and Analytics
-Regular reporting and analysis help property managers make informed decisions about property operations and tenant relations.
+* Microsoft Excel
+* Power Pivot
+* DAX Measures
+* Pivot Tables
 
-## 6. Conclusion
-Effective property management is crucial for the success of any real estate investment. By following the outlined practices, property managers can enhance the performance of their properties.
+---
+
+## 🗂️ Datasets Used
+
+* fact_bookings – Contains transactional booking-level data (bookings, revenue, dates, platform, etc.)
+
+* dim_properties – Contains property master data (property name, city, category, etc.)
+
+* These tables are connected in Power Pivot using relationships to create a star-schema style data model.
+
+## 📊 Project Features
+
+* Relational data model
+* Calculated measures using DAX
+* Interactive filters
+* Clean and organized report layout
+
+---
+
+## 📚 Learning Outcomes
+
+* Understanding of data modeling concepts in Excel
+* Hands-on experience with DAX calculations
+* Improved analytical thinking and problem solving
+* Ability to create business-style reports
+
+---
